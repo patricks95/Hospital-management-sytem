@@ -38,8 +38,6 @@
             this.paycrtxt = new System.Windows.Forms.Label();
             this.paycretxt = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
-            this.back_btn = new System.Windows.Forms.Button();
-            this.setting_btn = new System.Windows.Forms.Button();
             this.regbtn = new System.Windows.Forms.Button();
             this.home_btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -134,32 +132,6 @@
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // back_btn
-            // 
-            this.back_btn.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.back_btn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.back_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.back_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.back_btn.Image = ((System.Drawing.Image)(resources.GetObject("back_btn.Image")));
-            this.back_btn.Location = new System.Drawing.Point(912, 22);
-            this.back_btn.Name = "back_btn";
-            this.back_btn.Size = new System.Drawing.Size(99, 85);
-            this.back_btn.TabIndex = 41;
-            this.back_btn.UseVisualStyleBackColor = false;
-            // 
-            // setting_btn
-            // 
-            this.setting_btn.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.setting_btn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.setting_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.setting_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.setting_btn.Image = ((System.Drawing.Image)(resources.GetObject("setting_btn.Image")));
-            this.setting_btn.Location = new System.Drawing.Point(1012, 22);
-            this.setting_btn.Name = "setting_btn";
-            this.setting_btn.Size = new System.Drawing.Size(99, 85);
-            this.setting_btn.TabIndex = 40;
-            this.setting_btn.UseVisualStyleBackColor = false;
-            // 
             // regbtn
             // 
             this.regbtn.BackColor = System.Drawing.SystemColors.WindowFrame;
@@ -195,8 +167,6 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1320, 730);
-            this.Controls.Add(this.back_btn);
-            this.Controls.Add(this.setting_btn);
             this.Controls.Add(this.regbtn);
             this.Controls.Add(this.home_btn);
             this.Controls.Add(this.button3);
@@ -229,8 +199,6 @@
         private System.Windows.Forms.Label paycrtxt;
         private System.Windows.Forms.TextBox paycretxt;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button back_btn;
-        private System.Windows.Forms.Button setting_btn;
         private System.Windows.Forms.Button regbtn;
         private System.Windows.Forms.Button home_btn;
     }
