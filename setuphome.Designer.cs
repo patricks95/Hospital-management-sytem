@@ -139,7 +139,7 @@
             this.regbtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.regbtn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.regbtn.Image = ((System.Drawing.Image)(resources.GetObject("regbtn.Image")));
-            this.regbtn.Location = new System.Drawing.Point(1113, 22);
+            this.regbtn.Location = new System.Drawing.Point(1103, 22);
             this.regbtn.Name = "regbtn";
             this.regbtn.Size = new System.Drawing.Size(99, 85);
             this.regbtn.TabIndex = 39;
@@ -153,7 +153,7 @@
             this.home_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.home_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.home_btn.Image = ((System.Drawing.Image)(resources.GetObject("home_btn.Image")));
-            this.home_btn.Location = new System.Drawing.Point(1214, 22);
+            this.home_btn.Location = new System.Drawing.Point(1204, 22);
             this.home_btn.Name = "home_btn";
             this.home_btn.Size = new System.Drawing.Size(95, 85);
             this.home_btn.TabIndex = 38;
