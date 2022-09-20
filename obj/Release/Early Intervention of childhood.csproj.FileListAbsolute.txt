@@ -1,0 +1,28 @@
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\Early Intervention of childhood.exe.config
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\Early Intervention of childhood.exe
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\Early Intervention of childhood.pdb
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.AccessControl.dll
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.Permissions.dll
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.Principal.Windows.dll
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.AccessControl.xml
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.Permissions.xml
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\bin\Release\System.Security.Principal.Windows.xml
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.csproj.AssemblyReference.cache
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.csproj.SuggestedBindingRedirects.cache
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.diagnosisselector.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.homeselector.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.login.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.patient.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.patientchange.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.Properties.Resources.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.Registration.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.reporthome.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.serviceselector.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early_Intervention_of_childhood.setuphome.resources
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.csproj.GenerateResource.cache
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.csproj.CoreCompileInputs.cache
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.csproj.CopyComplete
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.exe
+D:\janan\Early Intervention of childhood\Early Intervention of childhood\obj\Release\Early Intervention of childhood.pdb
