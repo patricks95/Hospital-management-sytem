@@ -327,5 +327,12 @@ namespace Early_Intervention_of_childhood
             setuphome setuphome = new setuphome();
             setuphome.Show();
         }
+
+        private void back_btn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            homeselector homeselector = new homeselector();
+            homeselector.Show();
+        }
     }
 }

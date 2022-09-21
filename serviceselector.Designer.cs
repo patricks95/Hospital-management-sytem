@@ -413,11 +413,12 @@
             // 
             // service_today_btn
             // 
-            this.service_today_btn.Location = new System.Drawing.Point(116, 99);
+            this.service_today_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.service_today_btn.Image = ((System.Drawing.Image)(resources.GetObject("service_today_btn.Image")));
+            this.service_today_btn.Location = new System.Drawing.Point(330, 65);
             this.service_today_btn.Name = "service_today_btn";
-            this.service_today_btn.Size = new System.Drawing.Size(208, 23);
+            this.service_today_btn.Size = new System.Drawing.Size(56, 51);
             this.service_today_btn.TabIndex = 3;
-            this.service_today_btn.Text = "Get Today Date";
             this.service_today_btn.UseVisualStyleBackColor = true;
             this.service_today_btn.Click += new System.EventHandler(this.service_today_btn_Click);
             // 
@@ -648,6 +649,7 @@
             this.back_btn.Size = new System.Drawing.Size(99, 85);
             this.back_btn.TabIndex = 45;
             this.back_btn.UseVisualStyleBackColor = false;
+            this.back_btn.Click += new System.EventHandler(this.back_btn_Click);
             // 
             // setting_btn
             // 

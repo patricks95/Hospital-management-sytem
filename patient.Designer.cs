@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(patient));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label4 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -63,7 +63,7 @@
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label4.Location = new System.Drawing.Point(639, 38);
+            this.label4.Location = new System.Drawing.Point(431, 38);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(727, 62);
             this.label4.TabIndex = 16;
@@ -99,14 +99,14 @@
             // dataGridView1
             // 
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.patient_id,
@@ -125,7 +125,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1900, 541);
+            this.dataGridView1.Size = new System.Drawing.Size(1784, 541);
             this.dataGridView1.TabIndex = 26;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -216,7 +216,7 @@
             // scarchtxt
             // 
             this.scarchtxt.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.scarchtxt.Location = new System.Drawing.Point(1603, 212);
+            this.scarchtxt.Location = new System.Drawing.Point(1473, 209);
             this.scarchtxt.Name = "scarchtxt";
             this.scarchtxt.Size = new System.Drawing.Size(193, 30);
             this.scarchtxt.TabIndex = 27;
@@ -226,7 +226,7 @@
             this.scarchbtn.BackColor = System.Drawing.Color.MediumBlue;
             this.scarchbtn.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.scarchbtn.ForeColor = System.Drawing.Color.White;
-            this.scarchbtn.Location = new System.Drawing.Point(1802, 207);
+            this.scarchbtn.Location = new System.Drawing.Point(1672, 204);
             this.scarchbtn.Name = "scarchbtn";
             this.scarchbtn.Size = new System.Drawing.Size(110, 43);
             this.scarchbtn.TabIndex = 28;
@@ -253,7 +253,7 @@
             this.back_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.back_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.back_btn.Image = ((System.Drawing.Image)(resources.GetObject("back_btn.Image")));
-            this.back_btn.Location = new System.Drawing.Point(1515, 27);
+            this.back_btn.Location = new System.Drawing.Point(1385, 26);
             this.back_btn.Name = "back_btn";
             this.back_btn.Size = new System.Drawing.Size(99, 85);
             this.back_btn.TabIndex = 49;
@@ -267,7 +267,7 @@
             this.setting_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.setting_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.setting_btn.Image = ((System.Drawing.Image)(resources.GetObject("setting_btn.Image")));
-            this.setting_btn.Location = new System.Drawing.Point(1615, 27);
+            this.setting_btn.Location = new System.Drawing.Point(1485, 26);
             this.setting_btn.Name = "setting_btn";
             this.setting_btn.Size = new System.Drawing.Size(99, 85);
             this.setting_btn.TabIndex = 48;
@@ -281,7 +281,7 @@
             this.regbtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.regbtn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.regbtn.Image = ((System.Drawing.Image)(resources.GetObject("regbtn.Image")));
-            this.regbtn.Location = new System.Drawing.Point(1716, 27);
+            this.regbtn.Location = new System.Drawing.Point(1586, 26);
             this.regbtn.Name = "regbtn";
             this.regbtn.Size = new System.Drawing.Size(99, 85);
             this.regbtn.TabIndex = 47;
@@ -295,7 +295,7 @@
             this.home_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.home_btn.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.home_btn.Image = ((System.Drawing.Image)(resources.GetObject("home_btn.Image")));
-            this.home_btn.Location = new System.Drawing.Point(1817, 27);
+            this.home_btn.Location = new System.Drawing.Point(1687, 26);
             this.home_btn.Name = "home_btn";
             this.home_btn.Size = new System.Drawing.Size(95, 85);
             this.home_btn.TabIndex = 46;

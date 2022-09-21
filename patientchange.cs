@@ -212,5 +212,12 @@ namespace Early_Intervention_of_childhood
             registration.Show();
 
         }
+
+        private void back_btn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            homeselector homeselector = new homeselector();
+            homeselector.Show();
+        }
     }
 }
