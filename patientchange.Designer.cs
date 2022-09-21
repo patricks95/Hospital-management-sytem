@@ -378,6 +378,7 @@
             this.back_btn.Size = new System.Drawing.Size(99, 85);
             this.back_btn.TabIndex = 53;
             this.back_btn.UseVisualStyleBackColor = false;
+            this.back_btn.Click += new System.EventHandler(this.back_btn_Click);
             // 
             // setting_btn
             // 
